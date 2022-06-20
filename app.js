@@ -10,7 +10,7 @@ var priceData = []
 
 // check
 app.get('/' , (req,res) => {
-    res.json('Server Works fine!!!')
+    res.json('Server Works fine!!! on Heroku')
 })
 
 // API
