@@ -1,0 +1,19 @@
+{
+  "name": "market-rate-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
